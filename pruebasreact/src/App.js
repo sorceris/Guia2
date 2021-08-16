@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Form from './components/Form';
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
     <div className="App-content">
     <p>Aquí haremos nuestro TO-DO list</p>
+    <Form />
     </div>
     </div>
   );

@@ -12,7 +12,7 @@
       display: flex;
       vertical-align: auto;
     }
-    formbutton {
+    form button {
       cursor: pointer;
       display: inline-block;
       text-align: center;
